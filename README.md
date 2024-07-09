@@ -1,6 +1,6 @@
 # intel-summer-internship-2024
 # Project Description for Intel Internship
-
+# By Parth Dhananjay Akre
 ## Title
 Introduction to GenAI and Simple LLM Inference on CPU and Fine-tuning of LLM Model to Create a Custom Chatbot
 
